@@ -1,0 +1,74 @@
+id,Attractions,Routes,X,Y
+1,Catedral de Santiago de Compostela,end,42.88117543,-8.544266654
+2,Pontedeume,Ingles,43.406667,-8.170833
+3,Betanzos,Ingles,43.279167,-8.210556
+4, Bruma,Ingles,43.211,-8.372
+5,Ordes,Ingles,43.076667,-8.407222
+6,Sigueiro,Ingles,42.9642695,-8.4439827
+7,A Coruna,Ingles,43.366667,-8.383333
+8,San Sebastian,Norte,43.32,-1.98
+9,Zarautz,Norte,43.2863,-2.1748
+10,Deba,Norte,43.295278,-2.35
+11,Markina,Norte,43.268889,-2.496389
+12,Gernika,Norte,43.316667,-2.666667
+13,Lezama,Norte,43.274722,-2.833333
+14,Bilbao,Norte,43.256944,-2.923611
+15,Portugalete,Norte,43.319444,-3.019444
+16,Castro Urdiales,Norte,43.384444,-3.215
+17,Laredo,Norte,43.414444,-3.41
+18,Noja,Norte,43.481389,-3.518611
+19,Santander,Norte,43.462778,-3.805
+20,Santillana del Mar,Norte,43.393333,-4.104722
+21,Comillas,Norte,43.386944,-4.289444
+22,Unquera,Norte,43.3740432,-4.5157175
+23,Llanes,Norte,43.4211483,-4.7562159
+24,Ribadesella,Norte,43.4625,-5.058333
+25,Colunga,Norte,43.486111,-5.270278
+26,Villaviciosa,Norte,43.483333,-5.433333
+27,Gijon,Norte,43.533333,-5.7
+28,Aviles,Norte,43.556111,-5.908333
+29,Cudillero,Norte,43.56,-6.15
+30,Luarca,Norte,43.542222,-6.535833
+31,Navia,Norte,43.5392,-6.7236
+32,Ribadeo,Norte,43.533611,-7.040278
+33,Lourenza,Norte,43.4333,-7.2167
+34,Mondonedo,Norte,43.428056,-7.362778
+35,Abadin,Norte,43.366667,-7.483333
+36,Vilalba,Norte,43.3,-7.683333
+37,Baamonde,Norte,43.17622108,-7.756884195
+38,Arzua,Norte,42.933333,-8.166667
+39,Oviedo,Primitivo,43.3625,-5.8503
+40,Arzua,Primitivo,42.933333,-8.166667
+41,Salas,Primitivo,43.4082,-6.2569
+42,Melide,Primitivo,42.914572,-8.013614
+43,Pola de Allande,Primitivo,43.267,-6.617
+44,Lugo,Primitivo,43.016667,-7.55
+45,A Fonsagrada,Primitivo,43.133333,-7.066667
+46,Se do Porto,Camino Portugués coastal,41.14301466,-8.611041401
+47,Igreja do Carmo,Camino Portugués coastal,41.14751785,-8.616229988
+48,Ponte D. Zameiro,Camino Portugués coastal,41.35131253,-8.681367459
+49,Le Crêpe Da Pia,Camino Portugués coastal,42.07060997,-8.641355396
+50,Conjunto Arqueologico de Itálica,Via de la Plata,37.47889654,-6.041376766
+51,Catedral de Sevilla,Via de la Plata,37.38595254,-5.993117532
+52,Torre del Oro,Via de la Plata,37.38258075,-5.996226973
+53,Alcazaba,Via de la Plata,37.1771845,-3.591599903
+54,Puente Romano de Cordoba,Via de la Plata,37.87678845,-4.777938539
+55,Catedral de San Martino de Ourense,Camino Inglés,42.33814317,-7.86322426
+56,Amboage Square,Camino Inglés,43.49304489,-8.241094364
+57,MESON-MUSEO XENTE NO CAMINO,Camino Inglés,43.21244163,-8.271663411
+58,Saint Jean Pied de Port,Frances,43.165,-1.235556
+59,Zubiri,Frances,42.930272,-1.504309
+60,Puente de la Reina,Frances,42.691848,-1.817028
+61,Los Arcos,Frances,42.566667,-2.183056
+62,Najera,Frances,42.415833,-2.734167
+63,Belorado,Frances,42.4205,-3.1902
+64,Burgos,Frances,42.340833,-3.699722
+65,Castrojeriz,Frances,42.287778,-4.138889
+66,Carrion de los Condes,Frances,42.338889,-4.601944
+67,Sahagun,Frances,42.3711,-5.0331
+68,Mansilla de las Mulas,Frances,42.4975,-5.416389
+69,Astorga,Frances,42.4575,-6.0569
+70,Ponferrada,Frances,42.5461,-6.5908
+71,Villafranca del Bierzo,Frances,42.60601,-6.81069
+72,Sarria,Frances,42.77778,-7.41444
+73,Palas de Rei,Frances,42.873611,-7.869444
