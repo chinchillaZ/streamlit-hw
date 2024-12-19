@@ -1,0 +1,73 @@
+id,Attractions,Type,Routes,X,Y,describe
+1,Catedral de Santiago de Compostela,Cathedral,end,42.88117543,-8.544266654,聖雅各墓地，著名朝聖終點
+2,Pontedeume,Town,Ingles,43.406667,-8.170833,河畔小鎮，擁有中世紀橋樑
+3,Betanzos,Town,Ingles,43.279167,-8.210556,中世紀拱門與歷史教堂著名
+4,Bruma,Town,Ingles,43.211,-8.372,靜謐村落，朝聖者的重要中途站
+5,Ordes,Town,Ingles,43.076667,-8.407222,以農村風光和友善居民聞名
+6,Sigueiro,Town,Ingles,42.9642695,-8.4439827,朝聖補給站，風景寧靜
+7,A Coruna,City,Ingles,43.366667,-8.383333,海港城市，有世界遺產燈塔
+8,San Sebastian,City,Norte,43.32,-1.98,知名海灘和巴斯克美食的天堂
+9,Zarautz,Town,Norte,43.2863,-2.1748,適合衝浪的沙灘小鎮
+10,Deba,Town,Norte,43.295278,-2.35,悠久宗教歷史的寧靜小鎮
+11,Markina,Town,Norte,43.268889,-2.496389,朝聖路上的古樸文化小鎮
+12,Gernika,Town,Norte,43.316667,-2.666667,歷史名城，和平象徵的橡樹聞名
+13,Lezama,Town,Norte,43.274722,-2.833333,朝聖路上寧靜的鄉村停留點
+14,Bilbao,City,Norte,43.256944,-2.923611,知名文化都市，有古根海姆博物館
+15,Portugalete,Town,Norte,43.319444,-3.019444,有歷史吊橋連接兩岸，景色優美
+16,Castro Urdiales,Town,Norte,43.384444,-3.215,漁港小鎮，中世紀城堡與教堂著名
+17,Laredo,Town,Norte,43.414444,-3.41,長沙灘與歷史老城的結合
+18,Noja,Town,Norte,43.481389,-3.518611,迷人海岸與自然公園，適合徒步
+19,Santander,City,Norte,43.462778,-3.805,海濱城市，有美麗海灘與宮殿景觀
+20,Santillana del Mar,Town,Norte,43.393333,-4.104722,中世紀保存完好的石板小鎮
+21,Comillas,Town,Norte,43.386944,-4.289444,高第設計建築與壯麗海景融合
+22,Unquera,Town,Norte,43.3740432,-4.5157175,靠近自然保護區的小鎮，適合遠足
+23,Llanes,Town,Norte,43.4211483,-4.7562159,海岸線與歷史街道結合的魅力小鎮
+24,Ribadesella,Town,Norte,43.4625,-5.058333,河口小鎮，有史前洞穴壁畫
+25,Colunga,Town,Norte,43.486111,-5.270278,朝聖路上的風景優美村莊
+26,Villaviciosa,Town,Norte,43.483333,-5.433333,蘋果酒產地，鄉村風情濃厚
+27,Gijon,City,Norte,43.533333,-5.7,濱海城市，羅馬遺跡與文化活動中心
+28,Aviles,City,Norte,43.556111,-5.908333,有美麗古城區與現代藝術建築
+29,Cudillero,Town,Norte,43.56,-6.15,彩色漁村，港口風光迷人
+30,Luarca,Town,Norte,43.542222,-6.535833,白色建築與壯麗海景結合的小鎮
+31,Navia,Town,Norte,43.5392,-6.7236,海岸村莊，著名的衝浪與徒步景點
+32,Ribadeo,Town,Norte,43.533611,-7.040278,河口城市，壯觀海灘與拱門岩石聞名
+33,Lourenza,Town,Norte,43.4333,-7.2167,有中世紀修道院與安靜鄉村景色
+34,Mondonedo,Town,Norte,43.428056,-7.362778,哥德式大教堂與中世紀街區聞名
+35,Abadin,Town,Norte,43.366667,-7.483333,寧靜村莊，朝聖者路途的重要停留點
+36,Vilalba,Town,Norte,43.3,-7.683333,有保存完好的中世紀塔樓與文化遺跡
+37,Baamonde,Town,Norte,43.17622108,-7.756884195,有著石雕藝術與自然美景的村莊
+38,Arzua,Town,Norte,42.933333,-8.166667,以傳統乳酪與朝聖氛圍聞名的小鎮
+39,Oviedo,City,Primitivo,43.3625,-5.8503,哥德式大教堂與世界遺產建築聚集地
+40,Salas,Town,Primitivo,42.933333,-8.166667,有中世紀塔樓與古老教堂的小鎮
+41,Melide,Town,Primitivo,43.4082,-6.2569,美食小鎮，以章魚美味與朝聖氛圍著名
+42,Pola de Allande,Town,Primitivo,42.914572,-8.013614,山區村落，壯觀景色與傳統文化結合
+43,Lugo,City,Primitivo,43.267,-6.617,保存完整的羅馬城牆與歷史街區著名
+44,A Fonsagrada,Town,Primitivo,43.016667,-7.55,高海拔村落，著名的自然景觀與歷史遺跡
+45,Se do Porto,Church,Primitivo,43.133333,-7.066667,哥德式建築教堂，城市地標
+46,Igreja do Carmo,Church,Camino Portugu矇s coastal,41.14301466,-8.611041401,瓷磚外牆教堂，藝術與信仰結合
+47,Ponte D. Zameiro,Bridge,Camino Portugu矇s coastal,41.14751785,-8.616229988,古老石橋，提供優美河岸景色
+48,Le Cr?pe Da Pia,Restaurant,Camino Portugu矇s coastal,41.35131253,-8.681367459,特色法式煎餅餐廳，深受朝聖者喜愛
+49,Conjunto Arqueologico de Italica,Archaeological Site,Camino Portugu矇s coastal,42.07060997,-8.641355396,羅馬遺址，歷史愛好者的必訪之地
+50,Catedral de Sevilla,Cathedral,Via de la Plata,37.47889654,-6.041376766,哥德式建築傑作，塞維利亞地標
+51,Torre del Oro,Tower,Via de la Plata,37.38595254,-5.993117532,河畔塔樓，塞維利亞的歷史見證
+52,Alcazaba,Fortress,Via de la Plata,37.38258075,-5.996226973,雄偉堡壘，展示摩爾文化的遺產
+53,Puente Romano de Cordoba,Bridge,Via de la Plata,37.1771845,-3.591599903,歷史悠久的石橋，壯觀的河畔景觀
+54,Catedral de San Martino de Ourense,Cathedral,Via de la Plata,37.87678845,-4.777938539,巴洛克式建築，文化與信仰中心
+55,Amboage Square,Square,Camino Ingl矇s,42.33814317,-7.86322426,市中心廣場，活動與聚會的重要場所
+56,MESON-MUSEO XENTE NO CAMINO,Museum,Camino Ingl矇s,43.49304489,-8.241094364,朝聖者博物館，展示歷史文化與故事
+57,Saint Jean Pied de Port,Town,Camino Ingl矇s,43.21244163,-8.271663411,朝聖路的起點，熱鬧的小鎮氣氛
+58,Zubiri,Town,Frances,43.165,-1.235556,朝聖路上的寧靜村莊，河景優美
+59,Puente de la Reina,Bridge,Frances,42.930272,-1.504309,中世紀石橋，朝聖者的歷史地標
+60,Los Arcos,Town,Frances,42.691848,-1.817028,保有傳統建築的鄉村城鎮
+61,Najera,Town,Frances,42.566667,-2.183056,有歷史修道院與河畔景色的小鎮
+62,Belorado,Town,Frances,42.415833,-2.734167,寧靜村落，有古老建築與文化遺跡
+63,Burgos,City,Frances,42.4205,-3.1902,哥德式大教堂與文化活動聞名的大城
+64,Castrojeriz,Town,Frances,42.340833,-3.699722,中世紀村莊，古堡遺跡與田園景觀
+65,Carrion de los Condes,Town,Frances,42.287778,-4.138889,有歷史教堂與朝聖者熱情氛圍的小鎮
+66,Sahagun,Town,Frances,42.338889,-4.601944,文藝復興建築與宗教文化中心
+67,Mansilla de las Mulas,Town,Frances,42.3711,-5.0331,迷人村莊，朝聖路上的重要休息站
+68,Astorga,Town,Frances,42.4975,-5.416389,美食與歷史建築結合的特色小鎮
+69,Ponferrada,Town,Frances,42.4575,-6.0569,擁有壯麗城堡與歷史遺跡的城市
+70,Villafranca del Bierzo,Town,Frances,42.5461,-6.5908,朝聖者的熱門停留地，山間景色優美
+71,Sarria,Town,Frances,42.60601,-6.81069,朝聖路的出發點之一，歷史氣息濃厚
+72,Palas de Rei,Town,Frances,42.77778,-7.41444,小鎮風情，提供朝聖者住宿與餐飲
